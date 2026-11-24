@@ -1,6 +1,6 @@
 # Dynamical-Tidal-Resonances
 
-The data in [filename] contain lists {{"n", "k", "m", "s"}, {"a", "p", "e", "x", "Omega_td", "b"}, {"dE", "dL", "dQ"}} for one resonance (n,k,m,s) over a parameter space in (a,e,x) with a grid of 20x20x10, prograde and retrograde separately. (and later for several b values)
+The data in [filename] contain lists {{"n", "k", "m", "s"}, {"a", "p", "e", "x", "Omega_td", "b"}, {"dE", "dL", "dQ"}} for one resonance (n,k,m,s) over a parameter space in (a,e,x) with a grid of 20x20x10 for 11 Omega_td values (based on b values in folder name, see below), prograde and retrograde separately.
 
 "\[Epsilon]\[CapitalEpsilon]q=1, \[Epsilon]B=1, \  \[Epsilon]\[CapitalEpsilon]o=0" This just means that it used only the **quadropole** electric and magnetic tidal moments. (and not yet higher multipole order or PN order)
 
